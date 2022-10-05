@@ -7,7 +7,7 @@ build verification environment and implemnet a CPU.
 * Support forwarding and stall
 * Branch at ID stage
 
-## Requiremant
+## Requirement
 * Icarus Verilog
 * python
 * SPIM (QtSPIM)
